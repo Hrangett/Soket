@@ -1,0 +1,10 @@
+C:\Users\PKNU\Desktop\새 폴더\Messenger2\bin\Debug\Messenger2.exe.config
+C:\Users\PKNU\Desktop\새 폴더\Messenger2\bin\Debug\Messenger2.exe
+C:\Users\PKNU\Desktop\새 폴더\Messenger2\bin\Debug\Messenger2.pdb
+C:\Users\PKNU\Desktop\새 폴더\Messenger2\obj\Debug\Messenger2.csproj.AssemblyReference.cache
+C:\Users\PKNU\Desktop\새 폴더\Messenger2\obj\Debug\Messenger2.Form1.resources
+C:\Users\PKNU\Desktop\새 폴더\Messenger2\obj\Debug\Messenger2.Properties.Resources.resources
+C:\Users\PKNU\Desktop\새 폴더\Messenger2\obj\Debug\Messenger2.csproj.GenerateResource.cache
+C:\Users\PKNU\Desktop\새 폴더\Messenger2\obj\Debug\Messenger2.csproj.CoreCompileInputs.cache
+C:\Users\PKNU\Desktop\새 폴더\Messenger2\obj\Debug\Messenger2.exe
+C:\Users\PKNU\Desktop\새 폴더\Messenger2\obj\Debug\Messenger2.pdb
